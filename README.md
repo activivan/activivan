@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm activivam</h1>
+<h1 align="center">Hi 👋, I'm activivan</h1>
 <h3 align="center">I'm a german student with interest in Web Developement and Minetest</h3>
 
 - ✏ I’m currently working on [stundentable](https://stundentable.com/)
