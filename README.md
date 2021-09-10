@@ -3,7 +3,7 @@
 
 - ✏ I’m currently working on [stundentable](https://stundentable.com/)
 
-- 🌱 I’m planning to learn **NodeJS, PHP, VueJS...**
+- 🌱 I’m currently learning **NodeJS, PHP, ...**
 
 - 📫 How to reach me **activivan.studios@gmail.com**
 
